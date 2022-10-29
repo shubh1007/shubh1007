@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on python based projects.
 - 📫 How to reach me : https://www.linkedin.com/in/shubham1007
 
-[![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/shubh1007)
-
+[![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/@shubh1007)
 <!---
 shubh1007/shubh1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
