@@ -10,8 +10,11 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh1007&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1007) 
 
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 <!---
 shubh1007/shubh1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
