@@ -11,11 +11,10 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh1007&theme=highcontrast&show_icons=true&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=shubh1007&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1007&theme=highcontrast) 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1007&theme=highcontrast) [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/shubey1007)
 
 [![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/@shubh1007)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/shubey1007)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710&theme=github-dark/github-readme-activity-graph)
 
