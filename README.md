@@ -20,7 +20,7 @@
 
 [![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/@shubh1007)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/shubh1007)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shubh1007)](https://leetcode.com/shubh1007)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shubham1007">
