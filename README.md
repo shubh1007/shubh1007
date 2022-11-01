@@ -1,4 +1,4 @@
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubh1007)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=github-dark)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubh1007)](https://github.com/ashutosh00710&theme=github-dark/github-readme-activity-graph)
 
 
 
