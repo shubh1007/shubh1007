@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh1007)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=shubh1007)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Python+Enthusiast;I+am+a+Problem+Solver;)](https://git.io/typing-svg)
