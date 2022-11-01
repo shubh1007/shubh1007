@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=shubh1007)
+![](https://komarev.com/ghpvc/?username=shubh1007&style=for-the-badge)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Python+Enthusiast;I+am+a+Problem+Solver;)](https://git.io/typing-svg)
