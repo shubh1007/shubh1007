@@ -1,8 +1,3 @@
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710&theme=github-dark/github-readme-activity-graph)
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=shubh1007&style=for-the-badge)
 
 
@@ -21,6 +16,8 @@
 [![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/@shubh1007)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/shubey1007)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710&theme=github-dark/github-readme-activity-graph)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shubham1007">
