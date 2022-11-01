@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on python based projects.
 - 📫 How to reach me : https://www.linkedin.com/in/shubham1007
 
-[![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/@shubh1007)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh1007&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1007) 
+
+[![@shubh1007's Holopin board](https://holopin.me/shubh1007)](https://holopin.io/@shubh1007)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shubham1007">
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 
 
 
