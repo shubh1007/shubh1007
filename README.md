@@ -26,7 +26,8 @@
 
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710&theme=github-dark/github-readme-activity-graph) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubh1007&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
